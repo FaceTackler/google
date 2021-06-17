@@ -1,0 +1,46 @@
+.structure {
+    max-width: 100%;
+}
+.contents {
+    max-width: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.navbar {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    
+    /* width: 100%; */
+}
+
+.header2 {
+    text-align: center;
+    padding-top: 110px;
+}
+
+p { 
+    max-width: auto;
+    margin-right: 300px;
+}
+
+@media screen and (min-width: 1000px) {
+    p {
+    margin-right: 300px;
+    }
+}
+
+.searches {
+    padding-top: 50px;
+    max-width: auto;
+    margin-left: 100px;
+    margin-right: 400px;
+}
+
+.btn-secondary {
+    margin: 5px;
+   
+}
+
+
